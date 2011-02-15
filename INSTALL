@@ -1,0 +1,7 @@
+1. chechkout phantomuserland to ../..
+
+2. edit makefile (PHANTOM_ULAND)
+
+3. make import
+
+4. make all
